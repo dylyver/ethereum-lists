@@ -1,0 +1,26 @@
+{
+  "symbol": "DYC",
+  "name": "Dycoin",
+  "type": "ERC20",
+  "address": "0x2b27bf565593da4c3689207175e91b1c15e4792a",
+  "ens_address": "",
+  "decimals": 6,
+  "website": "https://ico.dylyver.com/",
+  "logo": { "src": "", "width": "", "height": "", "ipfs_hash": "" },
+  "support": { "email": "ico@dylyver.com", "url": "" },
+  "social": {
+    "blog": "https://medium.com/@dylyver",
+    "chat": "",
+    "facebook": "https://www.facebook.com/dylyver/",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "https://www.instagram.com/dylyver/",
+    "linkedin": "https://www.linkedin.com/in/vloskarjov/",
+    "reddit": "https://www.reddit.com/u/dylyver",
+    "slack": "",
+    "telegram": "https://t.me/dylyverchat",
+    "twitter": "https://twitter.com/dylyver",
+    "youtube": "https://www.youtube.com/channel/UC4ljGcaLq-pD86XujzfJ09g"
+  }
+}
